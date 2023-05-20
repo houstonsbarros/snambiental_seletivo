@@ -1,0 +1,47 @@
+[
+  {
+      "model": "usuarios.Usuario",
+      "fields": {
+          "vNome": "Elias Pietro Davi Almada",
+          "dNascimento": "2003-05-01",
+          "vCpf": "99854163334",
+          "vEmail": "elias_almada@gmail.com"
+      }
+  },
+  {
+      "model": "usuarios.Usuario",
+      "fields": {
+          "vNome": "Emilly Marlene Vanessa Fernandes",
+          "dNascimento": "1995-03-15",
+          "vCpf": "95894876370",
+          "vEmail": "emilly_marlene_fernandes@gmail.com"
+      }
+  },
+  {
+      "model": "usuarios.Usuario",
+      "fields": {
+          "vNome": "Débora Beatriz da Conceição",
+          "dNascimento": "1963-03-20",
+          "vCpf": "14609619350",
+          "vEmail": "debora.beatriz.daconceicao@gmail.com"
+      }
+  },
+  {
+      "model": "usuarios.Usuario",
+      "fields": {
+          "vNome": "Geraldo Carlos Eduardo André Aragão",
+          "dNascimento": "1944-04-20",
+          "vCpf": "90292267304",
+          "vEmail": "geraldo-aragao73@gmail.com"
+      }
+  },
+  {
+      "model": "usuarios.Usuario",
+      "fields": {
+          "vNome": "Danilo Lucas Carlos Almeida",
+          "dNascimento": "1978-04-22",
+          "vCpf": "72426968362",
+          "vEmail": "danilo-almeida94@gmail.com"
+      }
+  }
+]

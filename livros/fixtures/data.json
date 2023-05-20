@@ -1,0 +1,92 @@
+[
+    {
+        "model": "livros.Livro",
+        "fields": {
+            "vTitulo": "Dom Quixote",
+            "vAutor": "Miguel",
+            "iAno_publicacao": 1605,
+            "vEditora": "Editora"
+        }
+    },
+    {
+        "model": "livros.Livro",
+        "fields": {
+            "vTitulo": "1984",
+            "vAutor": "George",
+            "iAno_publicacao": 1949,
+            "vEditora": "Editora"
+        }
+    },
+    {
+        "model": "livros.Livro",
+        "fields": {
+            "vTitulo": "O Grande Gatsby",
+            "vAutor": "F. Scott",
+            "iAno_publicacao": 1925,
+            "vEditora": "Editora"
+        }
+    },
+    {
+        "model": "livros.Livro",
+        "fields": {
+            "vTitulo": "Orgulho e Preconceito",
+            "vAutor": "Jane Austen",
+            "iAno_publicacao": 1813,
+            "vEditora": "Editora"
+        }
+    },
+    {
+        "model": "livros.Livro",
+        "fields": {
+            "vTitulo": "Cem Anos de Solidão",
+            "vAutor": "Gabriel García",
+            "iAno_publicacao": 1967,
+            "vEditora": "Editora"
+        }
+    },
+    {
+        "model": "livros.Livro",
+        "fields": {
+            "vTitulo": "O Apanhador no Campo de Centeio",
+            "vAutor": "J.D. Salinger",
+            "iAno_publicacao": 1951,
+            "vEditora": "Editora"
+        }
+    },
+    {
+        "model": "livros.Livro",
+        "fields": {
+            "vTitulo": "Crime e Castigo",
+            "vAutor": "Fiódor Dostoiévski",
+            "iAno_publicacao": 1866,
+            "vEditora": "Editora"
+        }
+    },
+    {
+        "model": "livros.Livro",
+        "fields": {
+            "vTitulo": "Ulisses",
+            "vAutor": "James Joyce",
+            "iAno_publicacao": 1922,
+            "vEditora": "Editora"
+        }
+    },
+    {
+        "model": "livros.Livro",
+        "fields": {
+            "vTitulo": "Em Busca do Tempo Perdido",
+            "vAutor": "Marcel Proust",
+            "iAno_publicacao": 1913,
+            "vEditora": "Editora"
+        }
+    },
+    {
+        "model": "livros.Livro",
+        "fields": {
+            "vTitulo": "Moby Dick",
+            "vAutor": "Herman Melville",
+            "iAno_publicacao": 1851,
+            "vEditora": "Editora"
+        }
+    }
+]

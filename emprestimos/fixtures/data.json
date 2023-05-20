@@ -1,0 +1,20 @@
+[
+    {
+        "model": "emprestimos.Emprestimo",
+        "fields": {
+            "livro": 1,
+            "usuario": 1,
+            "dData_emprestimo": "2023-05-09",
+            "dData_devolucao": "2023-05-15"
+        }
+    },
+    {
+        "model": "emprestimos.Emprestimo",
+        "fields": {
+            "livro": 2,
+            "usuario": 2,
+            "dData_emprestimo": "2023-05-13",
+            "dData_devolucao": "2023-05-20"
+        }
+    }
+]
